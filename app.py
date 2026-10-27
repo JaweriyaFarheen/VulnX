@@ -330,6 +330,7 @@ with st.sidebar:
         - 🔐 TLS certificate inspection
         - 📋 Evidence and remediation
         - 📥 JSON report export
+        - 📕 PDF report export
         """
     )
 
