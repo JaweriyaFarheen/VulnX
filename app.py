@@ -348,7 +348,7 @@ col1, col2, col3, col4 = st.columns(4)
 
 col1.metric("Scanner", "Ready")
 col2.metric("Detection Modules", "4")
-col3.metric("Last Verified Tests", "108 passed")
+col3.metric("Last Verified Tests", "129 passed")
 col4.metric("Scan Mode", "Basic")
 
 st.caption(
